@@ -57,3 +57,22 @@ set lecho="C:\Program Files\Git\usr\bin\lessecho.exe"
 %lecho% "attachments-display-top-label ="                   >> localization\cs\messenger\preferences\preferences.ftl
 %lecho% "    .label = Zobrazení seznamu příloh nad zprávou" >> localization\cs\messenger\preferences\preferences.ftl
 %lecho% "    .accesskey = p"                                >> localization\cs\messenger\preferences\preferences.ftl
+
+%lecho% "restore-tabs-session-label ="          >> localization\cs\messenger\preferences\preferences.ftl
+%lecho% "    .value = Obnovení záložek při spuštění:" >> localization\csB\messenger\preferences\preferences.ftl
+%lecho% "restore-all-tabs ="                    >> localization\cs\messenger\preferences\preferences.ftl
+%lecho% "    .label = Všechny záložky"                 >> localization\cs\messenger\preferences\preferences.ftl
+%lecho% "    .accesskey = t"                    >> localization\cs\messenger\preferences\preferences.ftl
+%lecho% "restore-system-tabs ="                 >> localization\cs\messenger\preferences\preferences.ftl
+%lecho% "    .label = Systémové záložky"              >> localization\cs\messenger\preferences\preferences.ftl
+%lecho% "    .accesskey = s"                    >> localization\cs\messenger\preferences\preferences.ftl
+%lecho% "restore-no-tabs ="                     >> localization\cs\messenger\preferences\preferences.ftl
+%lecho% "    .label = Žádné"                     >> localization\csen-GB\messenger\preferences\preferences.ftl
+%lecho% "    .accesskey = n"                    >> localization\cs\messenger\preferences\preferences.ftl
+
+%lecho% "menu-view-layout-widethread =" >> localization\cs\messenger\menubar.ftl
+%lecho% "    .label = Široký pohled s vlákny" >> localization\cs\messenger\menubar.ftl
+%lecho% "    .accesskey = T"            >> localization\cs\messenger\menubar.ftl
+%lecho% "menu-view-layout-stacked ="    >> localization\cs\messenger\menubar.ftl
+%lecho% "    .label = Seskupený pohled"     >> localization\cs\messenger\menubar.ftl
+%lecho% "    .accesskey = S"            >> localization\cs\messenger\menubar.ftl
